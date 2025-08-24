@@ -1,4 +1,4 @@
-# Pixel Portal
+# [Pixel Portal](https://github.com/PIXEL-PULSE-IGNITHON/ignithion-finale)
 
 ### By PIXELPULSE
 
@@ -10,19 +10,19 @@ Welcome to Pixel Portal, a comprehensive platform where users can seamlessly dis
 
 Our platform is designed to tackle challenges across several SDGs:
 
-### SDG 2: Zero Hunger 🍽️
+### [SDG 2: Zero Hunger]() 🍽️
 * A dual-solution initiative featuring a website for both **donating and requesting food**.
 * Includes a **crowdfunding campaign** to support the effort financially.
 
-### SDG 3: Good Health & Well-Being ❤️‍🩹
+### [SDG 3: Good Health & Well-Being ❤️‍🩹](https://github.com/PIXEL-PULSE-IGNITHON/ignithon-donation-module)
 * A **user assessment tool** paired with an **AI chatbot** to understand and address user problems.
 * Features a **mood tracker** and an **analysis dashboard** for monitoring well-being.
 
-### SDG 4: Quality Education 📚
+### [SDG 4: Quality Education 📚](https://github.com/PIXEL-PULSE-IGNITHON/quality-education-sdg3)
 * Provides access to a library of **educational videos**.
 * An integrated **AI assistant** helps students with their learning needs.
 
-### SDG 5: Clean Water & Sanitation 💧
+### [SDG 5: Clean Water & Sanitation](https://github.com/PIXEL-PULSE-IGNITHON/clean-water-and-sanitation) 💧
 * A public portal allowing users to **submit grievances** regarding clean water and sanitation issues.
 
 ---
