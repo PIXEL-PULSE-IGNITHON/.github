@@ -1,6 +1,6 @@
 # Pixel Portal
 
-### By PIXELPULSE (Team No: 44)
+### By PIXELPULSE
 
 Welcome to Pixel Portal, a comprehensive platform where users can seamlessly discover and engage with a spectrum of innovative solutions. Our user-friendly website serves as a central hub, providing streamlined access to a diverse range of initiatives tackling critical challenges. This project aims to address key UN Sustainable Development Goals (SDGs).
 
